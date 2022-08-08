@@ -1,0 +1,3 @@
+@echo off
+echo hola mundo
+pause presione una tecla para continuar...
