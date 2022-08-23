@@ -11,10 +11,10 @@ echo MENU
 echo 1) Par o impar
 echo 2) Aprobado o reprobado
 echo 3) Ciclo
-echo 4) N£meros pares y creaci¢n de carpetas
+echo 4) N?meros pares y creaci?n de carpetas
 echo 5) Salir
 echo ===========================================
-set /p opcion=Ingrese el n£mero de opci¢n: 
+set /p opcion=Ingrese el n?mero de opci?n: 
 
 if %opcion%==1 goto opc1
 if %opcion%==2 goto opc2
@@ -24,7 +24,7 @@ if %opcion%==5 goto opc5
 :opc1
 cls
 echo Verificar si un valor ingresado es par o impar
-set /p num=Ingrese un n£mero: 
+set /p num=Ingrese un n?mero: 
 set /a residuo=%num% %% 2
 if %residuo%==0 ( 
     echo %num% es par

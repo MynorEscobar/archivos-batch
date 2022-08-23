@@ -1,0 +1,10 @@
+insert into estudiantes(carnet,nombre,apellido,telefono,direccion) values(1, "Ana", "Andrade", 22334455, "Zona 1");  
+insert into estudiantes(carnet,nombre,apellido,telefono,direccion) values(2, "Beatriz", "Brenes", 55667788, "Zona 2");  
+insert into estudiantes(carnet,nombre,apellido,telefono,direccion) values(3, "Carlos", "Castro", 99001122, "Zona 3");  
+insert into estudiantes(carnet,nombre,apellido,telefono,direccion) values(4, "Daniel", "Dardon", 13566778, "Zona 4");  
+insert into estudiantes(carnet,nombre,apellido,telefono,direccion) values(5, "Estephanie", "Estrada", 74001122, "Zona 5");  
+insert into estudiantes(carnet,nombre,apellido,telefono,direccion) values(6, "Francisco", "Funes", 12334455, "Zona 6");  
+insert into estudiantes(carnet,nombre,apellido,telefono,direccion) values(7, "Gabriela", "Granai", 50667789, "Zona 7");  
+insert into estudiantes(carnet,nombre,apellido,telefono,direccion) values(8, "Hyron", "Hurtarte", 28900112, "Zona 8");  
+insert into estudiantes(carnet,nombre,apellido,telefono,direccion) values(9, "Ines", "Iriarte", 32733445, "Zona 9");  
+insert into estudiantes(carnet,nombre,apellido,telefono,direccion) values(10, "Jaime", "Jo", 36566778, "Zona 10");  
