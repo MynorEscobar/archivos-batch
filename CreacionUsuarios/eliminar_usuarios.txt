@@ -1,0 +1,11 @@
+primero_basico_a
+primero_basico_b
+primero_basico_c
+segundo_basico_a
+segundo_basico_b
+segundo_basico_c
+tercero_basico_a
+tercero_basico_b
+tercero_basico_c
+admin2
+admin3

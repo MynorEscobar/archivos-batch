@@ -1,0 +1,12 @@
+nombre,contra,tipo
+primero_basico_a,pba1234,sin_permiso
+primero_basico_b,pbb1234,sin_permiso
+primero_basico_c,pbc1234,sin_permiso
+segundo_basico_a,sba1234,sin_permiso
+segundo_basico_b,sbb1234,sin_permiso
+segundo_basico_c,sbc1234,sin_permiso
+tercero_basico_a,tba1234,sin_permiso
+tercero_basico_b,tbb1234,sin_permiso
+tercero_basico_c,tbc1234,sin_permiso
+admin2,adminxyz$2,admin
+admin3,adminxyz$3,admin
